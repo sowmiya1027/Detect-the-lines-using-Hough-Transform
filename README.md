@@ -1,4 +1,4 @@
-# Detect the Line using Hough Diagram
+# Exp 7: Detect the Line using Hough Diagram
 # Name: Sowmiya R
 # Reg No: 212225040420
 
