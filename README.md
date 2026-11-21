@@ -117,7 +117,7 @@ The following outputs are obtained:
 ## 3. Canny edge detected image showing the edges and boundaries
    <img width="520" height="331" alt="image" src="https://github.com/user-attachments/assets/ab4cba2c-7282-4f62-bfff-55a3445a4960" />
 
-## 5. Final lane detection result displayed
+## 4. Final lane detection result displayed
 <img width="470" height="338" alt="image" src="https://github.com/user-attachments/assets/e1a8f5b6-0332-4549-81f7-612ff8c98147" />
 
 
